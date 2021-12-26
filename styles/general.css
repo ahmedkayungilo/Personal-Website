@@ -1,0 +1,191 @@
+ul{
+    list-style: none;
+}
+
+a{
+    color: #fca311;
+    text-decoration: none;
+    font-size: 18px;
+}
+p{
+    margin: 0;
+}
+
+footer{
+    background-color: #14213d;
+}
+
+a:hover{
+    color: #e5e5e5;
+}
+
+
+nav{
+    width: 550px;
+    height: 40px;
+    padding: 2rem 0rem 5rem;
+    margin-left: auto; 
+    margin-right: 0;
+}
+
+
+
+
+.hero-section{
+    background-color: #14213d;
+    
+}
+
+.title{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 64px;
+    color: #fca311;
+    font-weight: bold;
+}
+
+.normal-text{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    color: #e5e5e5;
+}
+
+.profile-pic{
+    width: 588px;
+    height: 605px;
+}
+
+.container{
+    margin: 0px;
+}
+
+.center-text{
+    padding: 0rem 4rem;
+}
+
+.section-title{
+    color: #fca311;
+    font-size: 64px;;
+    font-weight: bold;
+    font-family: 'Montserrat', 'sans-serif';
+    margin : 4rem auto;
+    text-align: center;
+}
+
+.project-mini-pic{
+    display: flex;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    margin: 0rem 3rem 2rem;
+}
+
+.project-mini-title{
+    display: inline-block;
+    margin : 0 auto;
+    color: #14213d;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Ubuntu','sans-serif';
+}
+
+.pic-card{
+    width : 50%;
+    margin : 0 auto;
+    text-align: center;
+}
+
+.project-button{
+
+    margin: 5.8rem 0 2rem;
+    width: 386px;
+    height: 106px;
+    border-radius: 20px;
+    color: #fca311;
+    font-size: 36px;
+    font-family: 'Montserrat','sans-serif';
+    font-weight: bold;
+    background-color: #14213d;
+    
+}
+
+.alignRight{
+    display: flex;
+  justify-content: end;
+  align-content: flex-end;
+  margin-right: 20px;
+}
+
+.testimonials{
+    font-size: 48px;
+    margin : auto;
+    font-family: 'Ubuntu','sans-serif';
+    color: #c5c5c5;
+   
+}
+.name{
+    color: #fca311;
+    margin: 30px;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Montserrat', 'sans-serif';
+    display: flex;
+    justify-content: end;
+    align-content: flex-end;
+    margin-right: 20px;
+}
+
+.center{
+    margin: auto;
+    width: 70%;
+}
+.carousel-control-prev,.carousel-control-next{
+    color: black;
+    margin: auto 0;
+
+}
+
+.car-button{
+   width: 50px;
+   height:50px;
+   
+}
+
+.footer-icon{
+   width: 170px;
+   height: 170px;
+   filter: invert(99%) sepia(2%) saturate(931%) hue-rotate(41deg) brightness(118%) contrast(80%);
+   margin: 30px 0;
+}
+.footer-item{
+    color: #ffffff;
+}
+.copyright{
+    color: #e5e5e5;
+    font-size: 24px;
+    font-family: 'Ubuntu','sans-serif';
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.email-svg{
+   
+         height: 100px;
+         width: 10px;
+         background-color:white;
+         -webkit-mask-size: contain;
+         mask-size: contain;
+         -webkit-mask-position: center;
+         mask-position: center;
+         -webkit-mask-repeat: no-repeat;
+         mask-repeat: no-repeat;
+         mask-image:url("../Images/email-svgrepo-com.svg");
+}
+
+.navigation{
+    background-color: #14213d;
+}
+
+.section-div{
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
